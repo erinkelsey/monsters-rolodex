@@ -2,6 +2,8 @@
 
 A simple example app for React, with classes, of a searchable rolodex of monsters.
 
+GitHub Pages: https://erinkelsey.github.io/monsters-rolodex/
+
 ## Install Dependencies
 
     $ npm install
@@ -12,10 +14,10 @@ A simple example app for React, with classes, of a searchable rolodex of monster
 
 ## Deploy to GitHub Pages
 
-    1. Change the homepage in package.json to the current GitHub URL for your project
+1. Change the homepage in package.json to the current GitHub URL for your project
 
-    2. Run script:
+2. Run script:
 
-        $ npm run deploy
+   $ npm run deploy
 
-    3. Push to GitHub
+3. Push to GitHub
